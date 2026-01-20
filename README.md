@@ -26,7 +26,7 @@ Server binary available for **Linux amd64**, **arm**, and **arm64** with automat
 ## 📦 Installation Menu
 
 ```bash
-apt update -y && wget -q https://raw.githubusercontent.com/arivpnstores/udp-zivpn/main/install.sh -O /usr/local/bin/zivpn-manager && chmod +x /usr/local/bin/zivpn-manager && /usr/local/bin/zivpn-manager
+apt update -y && wget -q https://raw.githubusercontent.com/Friendz99/udp-zivpn/main/install.sh -O /usr/local/bin/zivpn-manager && chmod +x /usr/local/bin/zivpn-manager && /usr/local/bin/zivpn-manager
 ```
 
 > Installer akan otomatis:
@@ -41,7 +41,7 @@ apt update -y && wget -q https://raw.githubusercontent.com/arivpnstores/udp-zivp
 ## 📦 Update Menu
 
 ```bash
-wget -q https://raw.githubusercontent.com/arivpnstores/udp-zivpn/main/update.sh -O /usr/local/bin/update-manager && chmod +x /usr/local/bin/update-manager && /usr/local/bin/update-manager
+wget -q https://raw.githubusercontent.com/Friendz99/udp-zivpn/main/update.sh -O /usr/local/bin/update-manager && chmod +x /usr/local/bin/update-manager && /usr/local/bin/update-manager
 ```
 
 > Installer akan otomatis:
@@ -55,7 +55,7 @@ wget -q https://raw.githubusercontent.com/arivpnstores/udp-zivpn/main/update.sh 
 ## 🧼 Uninstall Menu
 
 ```bash
-wget -q https://raw.githubusercontent.com/arivpnstores/udp-zivpn/main/uninstall.sh -O /usr/local/bin/uninstall-zivpn && chmod +x /usr/local/bin/uninstall-zivpn && /usr/local/bin/uninstall-zivpn
+wget -q https://raw.githubusercontent.com/Friendz99/udp-zivpn/main/uninstall.sh -O /usr/local/bin/uninstall-zivpn && chmod +x /usr/local/bin/uninstall-zivpn && /usr/local/bin/uninstall-zivpn
 ```
 
 > Uninstall akan:
